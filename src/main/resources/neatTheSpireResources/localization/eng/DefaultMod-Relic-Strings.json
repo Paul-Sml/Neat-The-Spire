@@ -1,0 +1,143 @@
+{
+  "neatTheSpire:SmoothedVajra": {
+    "NAME": "Smoothed Vajra",
+    "FLAVOR": "How come no one ever though of that ?",
+    "DESCRIPTIONS": [
+      "Upon pickup, obtain a #yVajra and an #yOddly #ySmooth #yStone."
+    ]
+  },
+  "neatTheSpire:PaintRoller": {
+    "NAME": "Paint Roller",
+    "FLAVOR": "If you gather enough paint you can just roll on your enemies.",
+    "DESCRIPTIONS": [
+      "When you have al least #b9 cards in your hand, #yAttacks you play deal double damage."
+    ]
+  },
+  "neatTheSpire:Seesaw": {
+    "NAME": "Seesaw",
+    "FLAVOR": "Why does it have to hurt ?",
+    "DESCRIPTIONS": [
+      "If every card in your hand is an #yAttack, they deal #b",
+      " extra damage. NL If every card in your hand is a #ySkill, they give #b",
+      " extra #yBlock."
+    ]
+  },
+  "neatTheSpire:Gilthead": {
+    "NAME": "Gilt-head",
+    "FLAVOR": "The gilt-head bream is generally considered the best-tasting of the breams.",
+    "DESCRIPTIONS": [
+      "Raise your Max HP by #b",
+      " for each #yKey you own and obtain."
+    ]
+  },
+  "neatTheSpire:Geode": {
+    "NAME": "Geode",
+    "FLAVOR": "No one knows what's inside until opened... You could hold immense riches or a plain rock.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, deal #b5 damage to a random enemy. NL Allows #yOpened #yGeode to spawn in Boss chests."
+    ]
+  },
+  "neatTheSpire:OpenedGeode": {
+    "NAME": "Opened Geode",
+    "FLAVOR": "This one had more than you could ever expect ! Show it to the shopkeeper at your own risks.",
+    "DESCRIPTIONS": [
+      "Replaces #yGeode. NL Gain [E] at the start of your turn."
+    ]
+  },
+  "neatTheSpire:SecretStash": {
+    "NAME": "Secret Stash",
+    "FLAVOR": "People wouldn't look further than the main loot, what a shame.",
+    "DESCRIPTIONS": [
+      "Put your remaining #yGold in this relic to gain as much #yGold the #b3 next times you open a chest.",
+      "Gain #b",
+      " #yGold the #b",
+      " next times you open a chest.",
+      " #yGold the next time you open a chest.",
+      "This relic is used up."
+    ]
+  },
+  "neatTheSpire:HauntedAnvil": {
+    "NAME": "Haunted Anvil",
+    "FLAVOR": "You periodically hear clanks like someone is forging something.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. NL Upon pickup, obtain a unique #yupgradable #rCurse.",
+      "clank... clank... clank..."
+    ]
+  },
+  "neatTheSpire:InfinitePower": {
+    "NAME": "Infinite Power",
+    "FLAVOR": "Unlimited POWA !",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. NL If you have a #yPower in hand you must play it before other cards.",
+      "I must play my Powers."
+    ]
+  },
+  "neatTheSpire:BloodHourglass": {
+    "NAME": "Blood Hourglass",
+    "FLAVOR": "It could be your blood in here if you don't hurry.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the end of turn #b5, lose #b10 HP."
+    ]
+  },
+  "neatTheSpire:BloodyClaws": {
+    "NAME": "Bloody Claws",
+    "FLAVOR": "Sliding your fingers in makes you so thirsty it's almost unbearable.",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal twice the HP lost on the last turn from cards."
+    ]
+  },
+  "neatTheSpire:TechniqueScroll": {
+    "NAME": "Technique Scroll",
+    "FLAVOR": "Learning has never been simpler than that.",
+    "DESCRIPTIONS": [
+      "Every time you play #b2 #yStrikes in a single turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "neatTheSpire:PrisonerBall": {
+    "NAME": "Prisoner Ball",
+    "FLAVOR": "What went through your head when you deliberately attached this to your leg ?",
+    "DESCRIPTIONS": [
+      "Whenever you draw an #yUnplayable card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "neatTheSpire:BottledIceCube": {
+    "NAME": "Bottled Ice Cube",
+    "FLAVOR": "The cube floats and flips a lot, it looks extremely slippery.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose a card. NL It becomes unplayable but its effects are triggered on discard.",
+      "Is unplayable but its effects are triggered on discard.",
+      ".",
+      "Select a card to bottle for "
+    ]
+  },
+  "neatTheSpire:FireWall": {
+    "NAME": "Fire Wall",
+    "FLAVOR": "Hackers just keep burning their hands on this.",
+    "DESCRIPTIONS": [
+      "Whenever you lose #yFocus, gain #b6 #yBlock."
+    ]
+  },
+  "neatTheSpire:SolarPanel": {
+    "NAME": "Solar Panel",
+    "FLAVOR": "I wonder who brought that in the tower, but I'm happy it can have some use..",
+    "DESCRIPTIONS": [
+      "At the start of your turn, if you have a #yLight Orb gain [E] ."
+    ]
+  },
+  "neatTheSpire:FocusBand": {
+    "NAME": "Focus Band",
+    "FLAVOR": "It doesn't seem to be from that world.",
+    "DESCRIPTIONS": [
+      "If you start your turn without being in any #yStance gain #b2 #yMantra."
+    ]
+  },
+  "neatTheSpire:PocketLightning": {
+    "NAME": "Pocket Lightning",
+    "FLAVOR": "You kept that from your \"I am a god\" trip.",
+    "DESCRIPTIONS": [
+      "Keep your #yMantra in between combats."
+    ]
+  }
+}

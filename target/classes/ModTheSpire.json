@@ -1,0 +1,12 @@
+{
+  "modid": "neatTheSpire",
+  "name": "Neat the Spire",
+  "author_list": ["Diamsword"],
+  "credits": "Basemod, ModTheSpire, Alchyr, StS Discord",
+  "description": "Improve your Slay the Spire experience with fitting content.",
+  "version": "1.1",
+  "sts_version": "01-23-2019",
+  "mts_version": "3.8.0",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "NAMES": [
+      "light"
+    ],
+    "DESCRIPTION": "Orb: Transforms itself depending on the next Orb you Channel."
+  },
+  {
+    "NAMES": [
+      "magnetic"
+    ],
+    "DESCRIPTION": "Orb: Draw cards."
+  }
+]

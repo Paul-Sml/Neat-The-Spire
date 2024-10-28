@@ -1,0 +1,47 @@
+{
+        "neatTheSpire:neatTheSpireLoseFocusPower": {
+                "NAME": "Focus Down",
+                "DESCRIPTIONS": [
+                        "At the end of this turn, lose #b",
+                        " #yFocus."
+                ]
+        },
+        "neatTheSpire:SimpletonPower": {
+                "NAME": "Simpleton",
+                "DESCRIPTIONS": ["Every generated status card is replaced by #ySlimed."]
+        },
+        "neatTheSpire:SimpletonPowerUpgraded": {
+                "NAME": "Simpleton",
+                "DESCRIPTIONS": ["Every generated status card is replaced by #yDazed."]
+        },
+        "neatTheSpire:AlwaysLearnPower": {
+                "NAME": "Always Learn",
+                "DESCRIPTIONS": ["Whenever you play a Shiv this turn, gain 1 #yAccuracy."]
+        },
+        "neatTheSpire:ClosedCircuitPower": {
+                "NAME": "Closed Circuit",
+                "DESCRIPTIONS": [
+                        "When you lose Focus, lose ",
+                        " less"
+                ]
+        },
+        "neatTheSpire:ClosedCircuitUpgradedPower": {
+                "NAME": "Closed Circuit+",
+                "DESCRIPTIONS": ["You don't lose Focus anymore."]
+        },
+        "neatTheSpire:DejaVuPower": {
+                "NAME": "Déjà Vu",
+                "DESCRIPTIONS": [
+                        "Draw ",
+                        " card the first time you play a card with the same name of a card you played the same turn.",
+                        " cards the first time you play a card with the same name of a card you played the same turn."
+                ]
+        },
+        "neatTheSpire:DropletsPower": {
+                "NAME": "Droplets",
+                "DESCRIPTIONS": [
+                        "Whenever you play a card that costs 0, apply",
+                        "Poison to ALL enemies."
+                ]
+        }
+}

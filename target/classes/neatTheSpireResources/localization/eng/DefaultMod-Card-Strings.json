@@ -1,0 +1,242 @@
+{
+  "neatTheSpire:BloodRage": {
+    "NAME": "Blood Rage",
+    "DESCRIPTION": "Lose 2 HP for every non-Attack card in your hand. NL Deal !D! damage."
+  },
+  "neatTheSpire:MovedDesolationStrike": {
+    "NAME": "Desolation Strike",
+    "DESCRIPTION": "Deal !D! damage times the cost of the top card of your draw pile."
+  },
+  "neatTheSpire:DoubleBlade": {
+    "NAME": "Double Blade",
+    "DESCRIPTION": "Gain !B! Block. NL Create a copy of a Strike card in your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Create !M! copies of a Strike card in your hand."
+  },
+  "neatTheSpire:FlameBlow": {
+    "NAME": "Flame Blow",
+    "DESCRIPTION": "Deal !D! damage twice. NL Draw !neatTheSpire:SecondMagic! card. NL Add a Burn to your hand. NL Can be upgraded 3 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage twice. NL Draw !neatTheSpire:SecondMagic! cards. NL Shuffle a Wound into your draw pile. NL Can be upgraded twice.",
+      "Deal !D! damage twice. NL Draw !neatTheSpire:SecondMagic! cards. NL Add a Dazed to your discard pile. NL Can be upgraded once.",
+      "Deal !D! damage !M! times. NL Draw !neatTheSpire:SecondMagic! cards."
+    ]
+  },
+  "neatTheSpire:InnerFire": {
+    "NAME": "Inner Fire",
+    "DESCRIPTION": "Exhaust a non-Attack card in your hand to deal !M! extra damage. NL Deal !D! damage.",
+    "EXTENDED_DESCRIPTION": [
+      "Exhaust a non-Attack card in your hand to deal !M! extra damage. NL Deal !D! damage. NL (Deals !neatTheSpire:SecondMagic! total damage.)"
+    ]
+  },
+  "neatTheSpire:LavaHand": {
+    "NAME": "Lava Hand",
+    "DESCRIPTION": "Lose !M! HP. NL Deal !D! damage. NL Upgrade a card in your hand and ALL cards with the same name."
+  },
+  "neatTheSpire:OozingGloves": {
+    "NAME": "Oozing Gloves",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle a *Slimed into your draw pile."
+  },
+  "neatTheSpire:PiercingStrike": {
+    "NAME": "Piercing Strike",
+    "DESCRIPTION": "Deal !D! damage. NL damage modifiers are applied an additional time to this card."
+  },
+  "neatTheSpire:PocketBlade": {
+    "NAME": "Pocket Blade",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage. NL If this card is Exhausted, NL gain !B! Block."
+  },
+  "neatTheSpire:Shieldrang": {
+    "NAME": "Shieldrang",
+    "DESCRIPTION": "Deal damage equal to your current Block and lose it. Gain Block equal to unblocked damage dealt.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal damage equal to your current Block and lose it.",
+      " NL (Deals !D! damage.)",
+      " NL Gain Block equal to unblocked damage dealt."
+    ]
+  },
+  "neatTheSpire:Simpleton": {
+    "NAME": "Simpleton",
+    "DESCRIPTION": "Every generated Status card is replaced by *Dazed.",
+    "UPGRADE_DESCRIPTION": "Every generated Status card is replaced by *Dazed. NL Gain this effect if this card is Exhausted."
+  },
+  "neatTheSpire:TormentingStrike": {
+    "NAME": "Tormenting Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If the target has Vulnerable apply 1 Vulnerable. NL If the target has Weak apply 1 Weak."
+  },
+  "neatTheSpire:TrueGuts": {
+    "NAME": "True Guts",
+    "DESCRIPTION": "Exhaust 1 card at random. NL Deal !D! damage to a random enemy twice.",
+    "UPGRADE_DESCRIPTION": "Exhaust 1 card. NL Deal !D! damage twice."
+  },
+  "neatTheSpire:AlwaysLearn": {
+    "NAME": "Always Learn",
+    "DESCRIPTION": "Add !M! Shivs into your hand. NL Whenever you play a Shiv this turn, gain 1 *Accuracy."
+  },
+  "neatTheSpire:BlurryFumes": {
+    "NAME": "Blurry Fumes",
+    "DESCRIPTION": "Apply !M! Weak. NL Block is not removed at the start of your next turn."
+  },
+  "neatTheSpire:DodgeAndDash": {
+    "NAME": "Dodge And Dash",
+    "DESCRIPTION": "Gain !B! Block. NL Your next Attack deals !M! additional damage."
+  },
+  "neatTheSpire:Droplets": {
+    "NAME": "Droplets",
+    "DESCRIPTION": "Whenever you play a card that costs 0, apply !M! Poison to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you play a card that costs 0, apply !M! Poison to ALL enemies."
+  },
+  "neatTheSpire:Reload": {
+    "NAME": "Reload",
+    "DESCRIPTION": "Gain !B! Block. NL Discard all non-Skill cards, then draw that many cards."
+  },
+  "neatTheSpire:Shred": {
+    "NAME": "Shred",
+    "DESCRIPTION": "Deal !D! damage twice. NL If the target is not Weak, this card's cost is increased by 1 [E]."
+  },
+  "neatTheSpire:SpecialConcoction": {
+    "NAME": "Special Concoction",
+    "DESCRIPTION": "Apply !M! Poison, NL then gain as much Block as Poison on the target. NL Exhaust."
+  },
+  "neatTheSpire:Stalwart": {
+    "NAME": "Stalwart",
+    "DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, NL gain !M! Dexterity.",
+    "EXTENDED_DESCRIPTION" : ["I can't play this card."]
+  },
+  "neatTheSpire:TheaterMask": {
+    "NAME": "Theater Mask",
+    "DESCRIPTION": "Gain !B! Block whether you play or discard this card."
+  },
+  "neatTheSpire:ThrowIt": {
+    "NAME": "Throw It",
+    "DESCRIPTION": "Apply !M! Poison to a random enemy. NL Draw 1 card."
+  },
+  "neatTheSpire:Brightness": {
+    "NAME": "Brightness",
+    "DESCRIPTION": "Gain !B! Block. NL Channel !M! neatthespire:Light.",
+    "UPGRADE_DESCRIPTION": "Channel !M! neatthespire:Light. NL Trigger the passive ability of all Light orbs."
+  },
+  "neatTheSpire:ClosedCircuit": {
+    "NAME": "Closed Circuit",
+    "DESCRIPTION": "When you lose Focus, NL lose 1 less.",
+    "UPGRADE_DESCRIPTION": "You don't lose Focus anymore."
+  },
+  "neatTheSpire:Construct": {
+    "NAME": "Construct",
+    "DESCRIPTION": "Lose 1 Focus. NL Gain !M! Orb slots."
+  },
+  "neatTheSpire:DeepLearningCore": {
+    "NAME": "Deep Learning Core",
+    "DESCRIPTION": "Deal !D! damage. NL Permanently increase this card's damage by X. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Permanently increase this card's damage by X+1. NL Exhaust."
+  },
+  "neatTheSpire:Dispense": {
+    "NAME": "Dispense",
+    "DESCRIPTION": "Gain !B! Block. If you have played at least !M! cards this turn, Evoke your next Orb.",
+    "EXTENDED_DESCRIPTION": [" NL (",
+      " card played.)",
+      " cards played.)"
+    ]
+  },
+  "neatTheSpire:EnergyDrink": {
+    "NAME": "Energy Drink",
+    "DESCRIPTION": "Gain !M! Focus. NL At the end of your turn, lose !M! Focus. NL Add a *Dazed into your discard pile."
+  },
+  "neatTheSpire:FineAndShine": {
+    "NAME": "Fine And Shine",
+    "DESCRIPTION": "Channel 1 neatthespire:Light. NL Draw !M! cards. NL Put a card from your hand on top of your draw pile.",
+    "UPGRADE_DESCRIPTION": "Channel 1 neatthespire:Light. NL Next turn, gain [E] [E]. NL Put a card from your hand on top of your draw pile."
+  },
+  "neatTheSpire:LightSwitch": {
+    "NAME": "Light Switch",
+    "DESCRIPTION": "Channel 1 neatthespire:Light. NL Then chose to Channel 1 Dark or 1 neatthespire:Magnetic. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Channel 1 neatthespire:Light. NL Then chose to Channel 1 Dark or 1 neatthespire:Magnetic."
+  },
+  "neatTheSpire:MeteorSpin": {
+    "NAME": "Meteor Spin",
+    "DESCRIPTION": "Discard 5 cards to NL deal !D! damage and NL Channel !M! neatthespire:Magnetic.",
+    "EXTENDED_DESCRIPTION": ["I don't have #b5 other cards in hand."]
+  },
+  "neatTheSpire:Polarization": {
+    "NAME": "Polarization",
+    "DESCRIPTION": "Channel !M! neatthespire:Magnetic.",
+    "UPGRADE_DESCRIPTION": "Channel !M! neatthespire:Magnetic. NL Trigger the passive ability of orbs next to a neatthespire:Magnetic orb."
+  },
+  "neatTheSpire:ReachStability": {
+    "NAME": "Reach Stability",
+    "DESCRIPTION": "If the difference in your draw and discard pile size is less than !M! NL gain 2 Focus.",
+    "EXTENDED_DESCRIPTION": ["The difference in my draw and discard pile size is more than #b",
+      " cards difference in between my draw and discard pile."]
+  },
+  "neatTheSpire:ScienceCuriosity": {
+    "NAME": "Science Curiosity",
+    "DESCRIPTION": "Lose !M! Focus. NL Channel !M! Plasma. NL Channel !M! neatthespire:Magnetic."
+  },
+  "neatTheSpire:TurnOn": {
+    "NAME": "Turn On",
+    "DESCRIPTION": "Channel 1 neatthespire:Magnetic."
+  },
+  "neatTheSpire:TurnOff": {
+    "NAME": "Turn Off",
+    "DESCRIPTION": "Channel 1 Dark."
+  },
+  "neatTheSpire:Ascended": {
+    "NAME": "Ascended",
+    "DESCRIPTION": "Double your Mantra. NL Lose Mantra exceeding 10 and draw a card for each."
+  },
+  "neatTheSpire:Aspiration": {
+    "NAME": "Aspiration",
+    "DESCRIPTION": "Deal damage equal to the damage of an attack in your hand.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal damage equal to the damage of an attack in your hand.",
+    "EXTENDED_DESCRIPTION" : ["There are no #yAttacks in my hand."]
+  },
+  "neatTheSpire:Contemplation": {
+    "NAME": "Contemplation",
+    "DESCRIPTION": "Enter Calm. NL Gain !M! Mantra."
+  },
+  "neatTheSpire:DejaVu": {
+    "NAME": "Déjà Vu",
+    "DESCRIPTION": "Draw !M! card the first time you play a card with the same name of a card you played the same turn."
+  },
+  "neatTheSpire:DesolationStrike": {
+    "NAME": "Desolation Strike",
+    "DESCRIPTION": "Scry !M!. NL Deal !D! damage times the cost of the top card of your draw pile."
+  },
+  "neatTheSpire:Elevation": {
+    "NAME": "Elevation",
+    "DESCRIPTION": "Retain. NL Gain !M! Mantra. NL If this card is in your hand while you Scry, increase the Mantra gain by 1."
+  },
+  "neatTheSpire:EyeBeam": {
+    "NAME": "Eye Beam",
+    "DESCRIPTION": "Deal !D! damage. NL Scry for the same amount."
+  },
+  "neatTheSpire:FoolReality": {
+    "NAME": "Fool Reality",
+    "DESCRIPTION": "Add a *Safety into your hand. NL Add a *Smite into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add a *Safety into your hand. NL Add a *Smite into your hand."
+  },
+  "neatTheSpire:Impatient": {
+    "NAME": "Impatient",
+    "DESCRIPTION": "If you are not in a Stance, enter Calm. NL Otherwise enter Wrath.",
+    "UPGRADE_DESCRIPTION": "Retain. NL If you are not in a Stance, enter Calm. NL Otherwise enter Wrath."
+  },
+  "neatTheSpire:InnerPain": {
+    "NAME": "Inner Pain",
+    "DESCRIPTION": "Deal !D! damage. NL This card's damage is reduced by !M! for each passed turn."
+  },
+  "neatTheSpire:MoodyStrike": {
+    "NAME": "Moody Strike",
+    "DESCRIPTION": "Deal !D! damage. NL If you are in a different Stance than the one you started your turn in, deal !D! damage again."
+  },
+  "neatTheSpire:UseTheHead": {
+    "NAME": "Use The Head",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you create a card, return this from the discard pile to your hand."
+  },
+  "neatTheSpire:CurseOfTheAnvil": {
+    "NAME": "Curse Of The Anvil",
+    "DESCRIPTION": "Whenever this card is drawn, Exhaust another random upgraded card in your hand. NL Exhaust. NL Can be upgraded twice. NL Cannot be removed from your deck.",
+    "EXTENDED_DESCRIPTION": [
+      "Whenever this card is drawn, Exhaust all other upgraded cards in your hand. NL Exhaust. NL Can be upgraded 3 times.",
+      "Exhaust. NL Can be upgraded once. NL Cannot be removed from your deck.",
+      "Playing this card removes it from your main deck."
+    ]
+  }
+}

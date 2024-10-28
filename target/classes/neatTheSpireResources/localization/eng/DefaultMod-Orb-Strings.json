@@ -1,0 +1,28 @@
+{
+  "neatTheSpire:neatTheSpireMagneticOrb": {
+    "NAME": "Magnetic",
+    "DESCRIPTION": [
+      "#yPassive: At the start of your turn, draw #b",
+      " card.",
+      " NL #yEvoke: Draw #b",
+      " card.",
+      " cards.",
+      " NL Magnetic passive is unaffected by #yFocus"
+    ]
+  },
+  "neatTheSpire:neatTheSpireLightOrb": {
+    "NAME": "Light",
+    "DESCRIPTION": [
+      "Transforms itself into a different #yOrb depending on the next one you #yChannel. NL Lightning -> Magnetic. NL Magnetic -> Lightning. NL Frost -> Dark. NL Dark -> Frost. NL Other -> Plasma."
+    ]
+  },
+  "neatTheSpire:neatTheSpireLightOrbTwo": {
+    "NAME": "LightTwo",
+    "DESCRIPTION": [
+      "#yPassive: At the end of turn, increases this Orb's #yBlock by #b",
+      ".",
+      " NL #yEvoke: Gain #b",
+      " Block."
+    ]
+  }
+}

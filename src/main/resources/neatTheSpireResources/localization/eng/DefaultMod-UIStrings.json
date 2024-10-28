@@ -1,0 +1,17 @@
+{
+  "neatTheSpire:DoubleBladeAction": {
+    "TEXT": [
+      "copy"
+    ]
+  },
+  "neatTheSpire:StoneHandAction": {
+    "TEXT": [
+      "upgrade"
+    ]
+  },
+  "neatTheSpire:InnerFireAction": {
+    "TEXT": [
+      "exhaust"
+    ]
+  }
+}
